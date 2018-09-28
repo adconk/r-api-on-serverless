@@ -1,4 +1,4 @@
-# GitPitch - The Template
+# Fast & Iterative R Machine Learning Models on Serverless APIs
 
 *THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
