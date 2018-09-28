@@ -1,7 +1,5 @@
 ---
-## R ML on AWS Serverless APIs
-
-### For Data Scientists and Developers
+## R Machine Learning Models on an AWS Serverless API
 
 _DC Web API Meetup, Oct 2 2018, Andrew Conklin_
 
