@@ -1,13 +1,9 @@
 ---
-@title[Introduction]
+# R ML on AWS Serverless APIs
 
-@snap[west headline text-white span-70]
-GitPitch<br>*The Template*
-@snapend
+## For Data Scientists and Developers
 
-@snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
-@snapend
+_DC Web API Meetup, Oct 2 2018, Andrew Conklin_
 
 ---
 @title[Slide Markdown]
