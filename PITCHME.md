@@ -1,7 +1,7 @@
 ---
-# R ML on AWS Serverless APIs
+## R ML on AWS Serverless APIs
 
-## For Data Scientists and Developers
+### For Data Scientists and Developers
 
 _DC Web API Meetup, Oct 2 2018, Andrew Conklin_
 
