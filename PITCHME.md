@@ -79,6 +79,6 @@ More time on core product. Less time on servers and runtimes.
 
 ## What is a Function Call?
 
-@snap[west span-100]
+@snap[span-100]
 ![FUNCTIONCALL](img/function-call.png)
 @snapend
