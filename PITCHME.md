@@ -89,7 +89,8 @@ More time on core product, less time on servers and runtimes
 
 @title[Cloud Providers]
 
-@snap[south]
+@snap[MidPoint]
+<span style="background-color:white;">
 ### Cloud Providers
 <ol>
 <li>Amazon Web Services Lambda</li>
@@ -97,4 +98,5 @@ More time on core product, less time on servers and runtimes
 <li>Google Cloud Functions</li>
 <li>Twilio Functions</li>
 </ol>
+</span>
 @snapend
