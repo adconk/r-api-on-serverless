@@ -19,12 +19,40 @@ The Agenda
 - Builder Steps
 @olend
 
+---
+@title[Audience]
+
+Who is this talk for?  <br/>
+Those involved in Production Data Science practice
+
+@ol
+System/Data Architects
+DevOps/ML Engineers
+Data Scientists
+Managers
+@olend
+
 ---?image=img/serverless.jpg&opacity=20
 
-@title[What is Serverless?]
+@title[Are you Serverless?]
 
 @snap[south text-white]
 <span style="background-color:black;font-size:2em;">
 Are you Serverless?
 </span>
 @snapend
+
++++
+@title[Serverless Definition]
+
+Functions-as-a-Service: Develop applications without administrating infrastructure.  
+
++++
+@title[Limitations]
+
+@ol
+- Stateless
+- 1.5GB - 3.0 GB of Memory
+- 4-9 minutes of execution time
+- 1000+ simultaneous API calls
+@olend
