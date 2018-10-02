@@ -89,13 +89,17 @@ More time on core product, less time on servers and runtimes
 
 @title[Who are the Providers?]
 
-## Who are the Providers?
+@snap[south text-white]
+<span style="background-color:black;font-size:2em;">
+Who are the Providers?
+</span>
+@snapend
 
 +++
 
 @title[]
 
-##
+## 
 
 <ol>
 <li style="background-color:white">Amazon Web Services Lambda</li>
