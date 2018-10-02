@@ -1,5 +1,4 @@
 published : true
 theme : sky
-theme-override : template/css/PITCHME.css
-footnote : "Iterative R Machine Learning Models on Serverless APIs"
+footnote : "R APIs on Serverless"
 highlight : atom-one-dark
