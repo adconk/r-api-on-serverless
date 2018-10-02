@@ -25,10 +25,10 @@ The Agenda
 #Audience: Contributors to Production Data Science
 
 <ol>
-<li>- System/Data Architects</li>
-<li>- DevOps/ML Engineers</li>
-<li>- Data Scientists</li>
-<li>- Managers</li>
+<li>System/Data Architects</li>
+<li>DevOps/ML Engineers</li>
+<li>Data Scientists</li>
+<li>Managers</li>
 </ol>
 
 ---?image=img/serverless.jpg&opacity=20
@@ -49,9 +49,9 @@ Functions-as-a-Service: Develop applications without administrating infrastructu
 +++
 @title[Limitations]
 
-@ol
-- Stateless
-- 1.5GB - 3.0 GB of Memory
-- 4-9 minutes of execution time
-- 1000+ simultaneous API calls
-@olend
+<ol>
+<li>Stateless</li>
+<li>1.5GB - 3.0 GB of Memory</li>
+<li>4-9 minutes of execution time</li>
+<li>1000+ simultaneous API calls</li>
+</ol>
