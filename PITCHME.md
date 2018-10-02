@@ -150,7 +150,9 @@ Time to make Lemonade
 
 ## AWS architecture
 
-new API Gateway, new Lambda instance, and new S3 bucket for R models
+@snap[span-100]
+![AWS Arch](img/arch.jpg)
+@snapend
 
 ---
 @title[Build Lambda Package]
