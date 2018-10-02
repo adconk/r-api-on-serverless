@@ -137,6 +137,29 @@ Time to make Lemonade
 new API Gateway, new Lambda instance, and new S3 bucket for R models
 
 ---
+@title[Build Lambda Package]
+
+## Build Lambda Package
+
+@ol
+- Create an AWS Virtual Machine
+- Add Python, Fortran, R Project, R Packages
+- Create Python Virtual Environment with r2py
+- Copy a bunch of low level files into venv
+- Write Python handler to interact with R through r2py
+- Zip it up and store on S3!
+@olend
+
+---
+@title[Deploy and Test Package]
+
+## Deploy and Test Package
+
+@ol
+- Magic!
+@olend
+
+---
 @title[Get in Touch]
 
 @snap[span-100]
