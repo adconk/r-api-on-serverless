@@ -162,9 +162,9 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 @olend
 
 ---
-@title[Deploy and Test Package]
+@title[Deploy and Test]
 
-## Deploy and Test Package
+## Deploy and Test
 
 @snap[span-100]
 ![Snow Man](img/snowman.gif)
