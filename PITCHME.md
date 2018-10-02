@@ -19,6 +19,7 @@ The Agenda
 @olend
 
 ---?image=img/serverless.jpg&opacity=20
+
 @title[What is Serverless?]
 
 @snap[text-white]
