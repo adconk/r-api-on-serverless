@@ -62,9 +62,9 @@ Functions-as-a-Service: Develop applications without administrating infrastructu
 More time on core product, less time on servers and runtimes
 
 +++
-@title[Limitations]
+@title[Constraints]
 
-## Constraints and Performance Benefits
+## Constraints / Benefits
 
 @ol
 - Stateless function call
