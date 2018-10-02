@@ -143,6 +143,6 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 ![Get in Touch](img/contact-1.png)
 @snapend
 
-Andrew Conklin
-https://linkedin.com/in/adconk
+Andrew Conklin<br/>
+https://linkedin.com/in/adconk<br/>
 https://github.com/adconk
