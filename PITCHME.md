@@ -21,4 +21,6 @@ The Agenda
 ---?image=img/serverless.jpg
 @title[What is Serverless?]
 
+@snap[text-white]
 What is Serverless?
+@snapend
