@@ -29,7 +29,6 @@ Contributors to Production Data Science<br/>
 
 <ol>
 <li>What is Serverless?</li>
-<li>Who are the Providers?</li>
 <li>How do I get started?</li>
 <li>Where does R fit?</li>
 <li>Whats next?</li>
@@ -65,7 +64,7 @@ More time on core product, less time on servers and runtimes
 +++
 @title[Limitations]
 
-## Limitations / Benefits
+## Constraints and Performance Benefits
 
 @ol
 - Stateless function call
@@ -83,27 +82,19 @@ More time on core product, less time on servers and runtimes
 ![FUNCTIONCALL](img/function-call.png)
 @snapend
 
++++
+@title[Supported Languages]
 
+## Supported Languages
 
----?image=img/cloud-providers.jpg
+Node.js, Python, Go, Java, C#, F#, PowerShell, Swift....
+<br/>
+...what about R?
 
-@title[Who are the Providers?]
+---?image=img/start.jpg
 
-@snap[south text-white]
-<span style="background-color:black;font-size:2em;">
-Who are the Providers?
-</span>
-@snapend
+@title[Where do we start?]
+
+Where do we start?
 
 +++
-
-@title[]
-
-## 
-
-<ol>
-<li style="background-color:white">Amazon Web Services Lambda</li>
-<li style="background-color:white">Microsoft Azure Functions</li>
-<li style="background-color:white">Google Cloud Functions</li>
-<li style="background-color:white">Twilio Functions</li>
-</ol>
