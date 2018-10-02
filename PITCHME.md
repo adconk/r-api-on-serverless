@@ -13,12 +13,12 @@ The Agenda
 
 @ol
 - What is Serverless?
-- Cloud Provider Support
+- Cloud Providers
 - Cloud Interactions
 - Builder Steps
 @olend
 
----?image=template/img/serverless.jpg
+---?image=img/serverless.jpg
 @title[What is Serverless?]
 
 What is Serverless?
