@@ -95,6 +95,10 @@ Node.js, Python, Go, Java, C#, F#, PowerShell, Swift
 
 @title[Where do we start?]
 
+@snap[south text-white]
+<span style="background-color:black;font-size:2em;">
 Where do we start?
+</span>
+@snapend
 
 +++
