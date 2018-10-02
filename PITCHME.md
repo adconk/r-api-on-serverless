@@ -48,7 +48,6 @@ Contributors to Production Data Science<br/>
 ![FUNCTIONCALL](img/function-call.png)
 @snapend
 
-
 +++
 @title[R Model]
 
@@ -166,8 +165,6 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 @title[Deploy and Test Package]
 
 ## Deploy and Test Package
-
-- Magic!
 
 @snap[span-100]
 ![Snow Man](img/snowman.gif)
