@@ -167,6 +167,15 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 @olend
 
 ---
+@title[Build Lambda Package]
+
+## Wait.... Low level?
+
+@snap[span-100]
+![Low Level](img/low-level.png)
+@snapend
+
+---
 @title[Deploy and Test]
 
 ## Deploy and Test
