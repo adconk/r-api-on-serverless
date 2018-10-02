@@ -18,7 +18,7 @@ The Agenda
 - Builder Steps
 @olend
 
----?image=img/serverless.jpg
+---?image=img/serverless.jpg&opacity=20
 @title[What is Serverless?]
 
 @snap[text-white]
