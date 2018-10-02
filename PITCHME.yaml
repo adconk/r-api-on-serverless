@@ -1,4 +1,2 @@
-published : true
 theme : sky
-footnote : "R APIs on Serverless"
-highlight : atom-one-dark
+theme-override : PITCHME.css
