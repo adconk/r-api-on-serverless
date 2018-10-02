@@ -108,10 +108,7 @@ Where do I start?
 
 Command Line Interfaces, Software Development Kits, Serverless.com Framework
 <br/><br/>
-...what about R, again?
-
----
-@title[Time to make Lemonade]
+...what about R?
 
 ---?image=img/lemons.jpg
 @title[Time to make Lemonade]
@@ -123,14 +120,17 @@ Time to make Lemonade
 @snapend
 
 ---
-@title[An AWS example]
+@title[Starting from scratch with AWS]
 
-##
+## Starting from scratch with AWS
 @ol
-- Pick a cloud (AWS)
 - Create an API Gateway
-- Create a Lambda Function
+- Associate a new Lambda Function
 - Create an EC2 instance
 - Build a Lambda Package
 - Deploy Package to Lambda
+- Test API endpoint call
 @olend
+
+---
+@title[Building a Lambda Package]
