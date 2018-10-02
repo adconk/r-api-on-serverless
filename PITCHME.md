@@ -171,6 +171,13 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 @snapend
 
 ---
+@title[Deploy and Test]
+
+## Deploy and Test
+
+This is really boring and there should be an open source package for this.  (*hint!)
+
+---
 @title[Get in Touch]
 
 @snap[span-100]
