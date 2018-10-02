@@ -34,8 +34,29 @@ Contributors to Production Data Science<br/>
 <li>Whats next?</li>
 </ol>
 
+---
+@title[Agenda]
+
+## First! Two basics.
+
++++
+@title[function call]
+
+## What is a Function Call?
+
+@snap[span-100]
+![FUNCTIONCALL](img/function-call.png)
+@snapend
 
 
++++
+@title[R Model]
+
+## What is an R Model?
+
+A file object that represents the output of a training dataset passed through a learning algorithm.<br/>
+
+It accepts input values and provides output values, like a function.
 
 ---?image=img/serverless.jpg
 
@@ -72,15 +93,6 @@ More time on core product, less time on servers and runtimes
 - 1.5GB - 3.0 GB of Memory per call
 - 1000+ simultaneous calls
 @olend
-
-+++
-@title[function call]
-
-## What is a Function Call?
-
-@snap[span-100]
-![FUNCTIONCALL](img/function-call.png)
-@snapend
 
 +++
 @title[Supported Languages]
@@ -155,9 +167,11 @@ new API Gateway, new Lambda instance, and new S3 bucket for R models
 
 ## Deploy and Test Package
 
-@ol
 - Magic!
-@olend
+
+@snap[span-100]
+![Snow Man](img/snowman.gif)
+@snapend
 
 ---
 @title[Get in Touch]
