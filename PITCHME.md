@@ -90,8 +90,8 @@ More time on core product, less time on servers and runtimes
 @title[Cloud Providers]
 
 @snap[MidPoint]
+## Cloud Providers
 <span style="background-color:white;">
-### Cloud Providers
 <ol>
 <li>Amazon Web Services Lambda</li>
 <li>Microsoft Azure Functions</li>
