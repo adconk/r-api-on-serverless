@@ -22,12 +22,14 @@ The Agenda
 ---
 @title[Audience]
 
-Audience: Contributors to Production Data Science
+#Audience: Contributors to Production Data Science
 
-- System/Data Architects<br/>
-- DevOps/ML Engineers<br/>
-- Data Scientists<br/>
-- Managers<br/>
+<ol>
+<li>- System/Data Architects</li>
+<li>- DevOps/ML Engineers</li>
+<li>- Data Scientists</li>
+<li>- Managers</li>
+</ol>
 
 ---?image=img/serverless.jpg&opacity=20
 
