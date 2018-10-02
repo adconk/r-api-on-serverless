@@ -29,10 +29,10 @@ Contributors to Production Data Science<br/>
 
 <ol>
 <li>What is Serverless?</li>
-<li>Cloud Providers</li>
-<li>Cloud Interactions</li>
-<li>Builder Steps</li>
-<li>Iterating Faster</li>
+<li>Who are the Providers?</li>
+<li>How do I get started?</li>
+<li>Where does R fit?</li>
+<li>Whats next?</li>
 </ol>
 
 
@@ -51,14 +51,14 @@ Are you Serverless?
 +++
 @title[What is Serverless?]
 
-## What is it?
+## What
 
 Functions-as-a-Service: Develop applications without administrating infrastructure  
 
 +++
 @title[Why use Serverless?]
 
-## Why use it?
+## Why
 
 More time on core product, less time on servers and runtimes
 
@@ -87,9 +87,15 @@ More time on core product, less time on servers and runtimes
 
 ---?image=img/cloud-providers.jpg
 
-@title[Cloud Providers]
+@title[Who are the Providers?]
 
-## Cloud Providers
+## Who are the Providers?
+
++++
+
+@title[]
+
+##
 
 <ol>
 <li style="background-color:white">Amazon Web Services Lambda</li>
