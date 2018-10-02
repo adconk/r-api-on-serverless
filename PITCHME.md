@@ -38,7 +38,7 @@ Contributors to Production Data Science<br/>
 
 
 
----?image=img/serverless.jpg&opacity=20
+---?image=img/serverless.jpg
 
 @title[Are you Serverless?]
 
@@ -51,16 +51,16 @@ Are you Serverless?
 +++
 @title[What is Serverless?]
 
-## What is Serverless?
+## What is it?
 
-Functions-as-a-Service: Develop applications without administrating infrastructure.  
+Functions-as-a-Service: Develop applications without administrating infrastructure  
 
 +++
 @title[Why use Serverless?]
 
-## Why use Serverless?
+## Why use it?
 
-More time on core product. Less time on servers and runtimes.  
+More time on core product, less time on servers and runtimes
 
 +++
 @title[Limitations]
@@ -81,4 +81,24 @@ More time on core product. Less time on servers and runtimes.
 
 @snap[span-100]
 ![FUNCTIONCALL](img/function-call.png)
+@snapend
+
+
+
+---?image=img/cloud-providers.jpg
+
+@title[Cloud Providers]
+
+@snap[south text-white]
+<span style="background-color:black;font-size:2em;">
+
+### Cloud Providers
+
+<ol>
+<li>Amazon Web Services Lambda</li>
+<li>Microsoft Azure Functions</li>
+<li>Google Cloud Functions</li>
+<li>Twilio Functions</li>
+</ol>
+</span>
 @snapend
