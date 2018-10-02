@@ -24,5 +24,7 @@ The Agenda
 @title[What is Serverless?]
 
 @snap[text-white]
+<span style="background-color:black">
 @size[3em](Are you serverless?)
+</span>
 @snapend
