@@ -24,5 +24,5 @@ The Agenda
 @title[What is Serverless?]
 
 @snap[text-white]
-Are you serverless?
+@size[3em](Are you serverless?)
 @snapend
