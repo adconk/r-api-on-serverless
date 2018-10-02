@@ -13,7 +13,7 @@ _Andrew Conklin_
 The Agenda [ Step-by-Step ]
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[list-content-concise span-100]
 @ol[list-bullets-black](false)
 - What is Serverless?
 - Cloud Provider Support
@@ -26,6 +26,6 @@ The Agenda [ Step-by-Step ]
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
 @title[What is Serverless?]
 
-@snap[south-west template-note text-gray]
+@snap[template-note text-gray]
 What is Serverless?
 @snapend
