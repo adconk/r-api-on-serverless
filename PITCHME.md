@@ -90,9 +90,12 @@ More time on core product, less time on servers and runtimes
 @title[Cloud Providers]
 
 ## Cloud Providers
+
+<span style="background-color:white">
 <ol>
 <li>Amazon Web Services Lambda</li>
 <li>Microsoft Azure Functions</li>
 <li>Google Cloud Functions</li>
 <li>Twilio Functions</li>
 </ol>
+</span>
