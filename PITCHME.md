@@ -12,24 +12,25 @@ _Andrew Conklin_
 
 The Agenda
 
-<ul>
+<ol>
 <li>What is Serverless?</li>
 <li>Cloud Providers</li>
 <li>Cloud Interactions</li>
 <li>Builder Steps</li>
-</ul>
+</ol>
 
 ---
 @title[Audience]
 
-#Audience: Contributors to Production Data Science
+# Audience:
+Contributors to Production Data Science<br/>
 
-<ul>
+<ol>
 <li>System/Data Architects</li>
 <li>DevOps/ML Engineers</li>
 <li>Data Scientists</li>
 <li>Managers</li>
-</ul>
+</ol>
 
 ---?image=img/serverless.jpg&opacity=20
 
