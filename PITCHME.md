@@ -87,8 +87,8 @@ More time on core product, less time on servers and runtimes
 
 ## Supported Languages
 
-Node.js, Python, Go, Java, C#, F#, PowerShell, Swift....
-<br/>
+Node.js, Python, Go, Java, C#, F#, PowerShell, Swift
+<br/><br/>
 ...what about R?
 
 ---?image=img/start.jpg
