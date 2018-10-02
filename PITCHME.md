@@ -126,8 +126,9 @@ Time to make Lemonade
 @ol
 - Create an API Gateway
 - Associate a new Lambda Function
+- Store R model in S3 Bucket
 - Create an EC2 instance
-- Build a Lambda Package
+- <bold>Build a Lambda Package</bold>
 - Deploy Package to Lambda
 - Test API endpoint call
 @olend
