@@ -9,23 +9,16 @@ _Andrew Conklin_
 ---
 @title[Agenda]
 
-@snap[north-west]
-The Agenda [ Step-by-Step ]
-@snapend
+The Agenda
 
-@snap[list-content-concise span-100]
-@ol[list-bullets-black](false)
+@ol
 - What is Serverless?
 - Cloud Provider Support
-- Console, Command Line, or 3rd Party?
-- Steps
+- Cloud Interactions
+- Builder Steps
 @olend
-<br><br>
-@snapend
 
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
+---?image=template/img/serverless.jpg
 @title[What is Serverless?]
 
-@snap[template-note text-gray]
 What is Serverless?
-@snapend
