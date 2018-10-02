@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-## _R APIs on Serverless_
-
+R APIs on Serverless
 _DC Web API Meetup, Oct 2 2018, Andrew Conklin_
 
 ---?include=template/md/split-screen/PITCHME.md
