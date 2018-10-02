@@ -124,14 +124,25 @@ Time to make Lemonade
 
 ## Starting from scratch with AWS
 @ol
-- Create an API Gateway
-- Associate a new Lambda Function
-- Store R model in S3 Bucket
-- Create an EC2 instance
-- <bold>Build a Lambda Package</bold>
-- Deploy Package to Lambda
-- Test API endpoint call
+- Create AWS architecture
+- Build Lambda Package
+- Deploy and Test Package
 @olend
 
 ---
-@title[Building a Lambda Package]
+@title[AWS Architecture]
+
+## AWS architecture
+
+new API Gateway, new Lambda instance, and new S3 bucket for R models
+
+---
+@title[Get in Touch]
+
+@snap[span-100]
+![Get in Touch](img/contact-1.png)
+@snapend
+
+Andrew Conklin
+https://linkedin.com/in/adconk
+https://github.com/adconk
