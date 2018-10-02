@@ -1,6 +1,6 @@
 @title[Intro]
 
-R API on Serverless  
+## R API on Serverless  
 
 _DC Web API Meetup_  
 _10/02/2018_   
@@ -10,7 +10,7 @@ _Andrew Conklin_
 ---
 @title[Agenda]
 
-The Agenda
+## The Agenda
 
 <ol>
 <li>What is Serverless?</li>
@@ -22,7 +22,7 @@ The Agenda
 ---
 @title[Audience]
 
-# Audience:
+## Audience
 Contributors to Production Data Science<br/>
 
 <ol>
