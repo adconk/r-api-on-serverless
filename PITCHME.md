@@ -22,14 +22,13 @@ The Agenda
 ---
 @title[Audience]
 
-Who is this talk for?  <br/>
-Those involved in Production Data Science practice
+Audience: Contributors to Production Data Science
 
 @ol
-System/Data Architects
-DevOps/ML Engineers
-Data Scientists
-Managers
+- System/Data Architects
+- DevOps/ML Engineers
+- Data Scientists
+- Managers
 @olend
 
 ---?image=img/serverless.jpg&opacity=20
