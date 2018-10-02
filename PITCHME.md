@@ -91,11 +91,9 @@ More time on core product, less time on servers and runtimes
 
 ## Cloud Providers
 
-<span style="background-color:white">
 <ol>
-<li>Amazon Web Services Lambda</li>
-<li>Microsoft Azure Functions</li>
-<li>Google Cloud Functions</li>
-<li>Twilio Functions</li>
+<li style="background-color:white">Amazon Web Services Lambda</li>
+<li style="background-color:white">Microsoft Azure Functions</li>
+<li style="background-color:white">Google Cloud Functions</li>
+<li style="background-color:white">Twilio Functions</li>
 </ol>
-</span>
