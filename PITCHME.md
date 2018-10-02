@@ -60,7 +60,7 @@ Functions-as-a-Service: Develop applications without administrating infrastructu
 
 ## Why use Serverless?
 
-So developers can focus more time on core product with scale performance instead of servers and runtimes.  
+More time on core product. Less time on servers and runtimes.  
 
 +++
 @title[Limitations]
@@ -68,24 +68,17 @@ So developers can focus more time on core product with scale performance instead
 ## Limitations / Benefits
 
 @ol
-- Stateless
-- 1000+ simultaneous function calls
+- Stateless function call
 - 4-9 minutes of execution time per call
-- 1.5GB - 3.0 GB of Memory per function call
+- 1.5GB - 3.0 GB of Memory per call
+- 1000+ simultaneous calls
 @olend
 
 +++
-@title[Example?]
+@title[function call]
 
-## How about an Example?
+## What is a Function Call?
 
-@snap[west span-50]
-![API Gateway Example](img/api-gateway.svg)
+@snap[west span-100]
+![FUNCTIONCALL](img/function-call.png)
 @snapend
-
-@ol
-- Stateless
-- 1000+ simultaneous function calls
-- 4-9 minutes of execution time per call
-- 1.5GB - 3.0 GB of Memory per function call
-@olend
