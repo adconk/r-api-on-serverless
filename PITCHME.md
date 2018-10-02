@@ -93,12 +93,44 @@ Node.js, Python, Go, Java, C#, F#, PowerShell, Swift
 
 ---?image=img/start.jpg
 
-@title[Where do we start?]
+@title[Where do I start?]
 
 @snap[south text-white]
 <span style="background-color:black;font-size:2em;">
-Where do we start?
+Where do I start?
 </span>
 @snapend
 
-+++
+---
+@title[Interfaces]
+
+## Interfaces
+
+Command Line Interfaces, Software Development Kits, Serverless.com Framework
+<br/><br/>
+...what about R, again?
+
+---
+@title[Time to make Lemonade]
+
+---?image=img/lemons.jpg
+@title[Time to make Lemonade]
+
+@snap[south text-white]
+<span style="background-color:black;font-size:2em;">
+Time to make Lemonade
+</span>
+@snapend
+
+---
+@title[An AWS example]
+
+##
+@ol
+- Pick a cloud (AWS)
+- Create an API Gateway
+- Create a Lambda Function
+- Create an EC2 instance
+- Build a Lambda Package
+- Deploy Package to Lambda
+@olend
