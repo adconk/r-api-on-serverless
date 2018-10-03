@@ -2,7 +2,7 @@
 
 ## R API on Serverless  
 
-_DC Web API Meetup_  
+_DC API Meetup_  
 _10/02/2018_   
 
 _Andrew Conklin_
